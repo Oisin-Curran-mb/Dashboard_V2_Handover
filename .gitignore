@@ -1,0 +1,15 @@
+# Only index.html, handover.html, README.md and docs/Pics are meant to be public.
+# Windows / Mac clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+# Anything else dropped into this folder by mistake
+*.md
+!README.md
+*.xlsx
+*.docx
+*.ods
+_tools/
+_ref/
