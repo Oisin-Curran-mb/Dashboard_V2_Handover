@@ -8,6 +8,8 @@ desktop.ini
 # Anything else dropped into this folder by mistake
 *.md
 !README.md
+# the two review documents the demo's Permissions and Dashboards tabs link to (20 Oct 2026)
+!docs/handover/*.md
 *.xlsx
 *.docx
 *.ods
